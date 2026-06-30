@@ -216,7 +216,7 @@ function App() {
           playsInline
           poster="foto/chris foto q.jpg"
         >
-          <source src="foto/Obvious (Official Video).mp4" type="video/mp4" />
+          <source src="foto/67b7b1659d793d87985add203d5de43f.mp4" type="video/mp4" />
         </video>
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(199,163,84,0.2),transparent_40%),linear-gradient(90deg,rgba(0,0,0,0.95),rgba(0,0,0,0.7))]" />
 
